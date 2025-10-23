@@ -1,5 +1,5 @@
 # O tym repozytorium
-Projekt zawiera kalkulator z możliwością wyboru działania, o którym użytkownik decyduje.
+Projekt zawiera prosty kalkulator
 
 # Technologie
 - **Język:** C++
@@ -10,5 +10,5 @@ Projekt zawiera kalkulator z możliwością wyboru działania, o którym użytko
 1. **Kompilacja kodu przy pomocy kompilatora G++**
 `g++ kalkulator.cpp -o kalkulator`
 
-2. **Uruchomienie programu PowerShell**
+2. **Uruchomienie programu**
 `.\kalkulator.exe`
